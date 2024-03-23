@@ -1,8 +1,8 @@
 # Business Insights 360 Project:
 
-Problem Statement: AtliQ is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
+Problem Statement: AtliQ, a rapidly growing consumer goods electronics company had been rely on excel files for data analytics. Due to the lack of effective analytics using excel the company faced a major loss in Latin America.
 
-Objective: To implement data anaysis using Power BI to draw insights effectively across various aspects such as Finance, Sales, Marketing & Supply Chain.
+Objective: To implement data analytics using Power BI to draw insights effectively across various aspects such as Finance, Sales, Marketing & Supply Chain.
 
 Tools used:
 •	MySQL
@@ -33,10 +33,10 @@ Following methods are undertaken to build interactive dashboard:
 5.Calculated columns, measures & tables outside power query editor: using DAX
 -	Necessary columns, measures & tables are created using DAX in order to improve report performance.
 
-6. Report optimization: using DAX studio
+6. Report Optimization: using DAX studio
 - Optimized report size by performing instrumentation through a tool called DAX studio by removing unessential columns in tables to reduce file size.
 
-7. Data visualization: using report view
+7. Dashboard Development: using report view
 -	Power BI Report is created based on the requirements given by stakeholders.
 
 8.Power BI service:
