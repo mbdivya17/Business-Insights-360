@@ -12,6 +12,7 @@ Following methods are undertaken to build interactive dashboard:
 1.Data Collection:
 -	Imported provided data to MySQL database.
 -	Connected Power BI with MySQL, loaded data to Power BI.
+-	Local excel files directly imported to Power BI.
 -	Created date table in power Query.
 
 2.Data Validation:
