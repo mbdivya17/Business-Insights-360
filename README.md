@@ -36,7 +36,7 @@ Following methods are undertaken to build interactive dashboard:
 6. Report Optimization: using DAX studio
 - Optimized report size by performing instrumentation through a tool called DAX studio by removing unessential columns in tables to reduce file size.
 
-7. Dashboard Development: using report view
+7. Dashboard Development:
 -	Power BI Report is created based on the requirements given by stakeholders.
 
 8.Power BI service:
