@@ -43,4 +43,4 @@ Following methods are undertaken to build interactive dashboard:
 -	Published report in power bi service.
 -	Installed a personal gateway & connected a personal computer with Power BI service for automatic data refresh of MySQL database.
 
-Live Dashboard Link - <iframe title="Business_Insights_360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjRiMmE5YzktYmNiMC00M2NlLTkyNmItOTAwMjNmMjE5YTRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+Live Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiYjRiMmE5YzktYmNiMC00M2NlLTkyNmItOTAwMjNmMjE5YTRjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
